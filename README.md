@@ -10,7 +10,7 @@ Olá! Eu sou a Giselle, Analista de Sistemas, graduada em Análise e Desenvolvim
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00FFFF&color:FFF)](https://github.com/gisellech4)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gisellesantos9/)
-[]
+[![DIO](https://img.shields.io/badge/-Dio-000?style=for-the-badge&logo=dio&logoColor=FF00F6&color:FFF)](https://www.dio.me/users/giselle_santos9/)
 
 ## Habilidades
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=4B0082)](https://docs.github.com/)
